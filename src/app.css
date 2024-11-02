@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: #1F2937;
+  color: white;
+}
+
+.bg-gray-900 {
+  background-color: #111827;
+}
+
+.bg-gray-800 {
+  background-color: #1F2937;
+}
+
+.bg-blue-600 {
+  background-color: #2563EB;
+}
+
+.text-white {
+  color: #FFFFFF;
+}
+
+.text-gray-400 {
+  color: #9CA3AF;
+}
